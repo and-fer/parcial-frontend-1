@@ -1,0 +1,23 @@
+.form_body {
+   padding: 50px;
+   width: 500px;
+   background-color: #e6e6fa;
+   border: 1px solid #191970;
+   border-radius: 5px;
+}
+
+.form_input {
+   margin-bottom: 10px;
+}
+
+form label {
+   display: block;
+}
+
+form input {
+   text-align: center;
+}
+
+.p_error {
+   color: red;
+}

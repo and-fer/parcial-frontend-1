@@ -1,0 +1,10 @@
+.card_body {
+   padding: 50px;
+   margin: 20px;
+   border: 1px solid #191970;
+   border-radius: 5px;
+}
+
+.card_body span {
+   font-weight: bold;
+}
